@@ -5,6 +5,10 @@
 # Only exists if Bazel was run
 /bazel-out
 
+builds
+key.pem
+.*.sw*
+
 # dependencies
 /node_modules
 
