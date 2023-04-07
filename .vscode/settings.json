@@ -5,10 +5,10 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+   
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
     "editor.formatOnType": true,
-    "html.format.endWithNewline": true,
-    "html.format.indentInnerHtml": true,
 }
